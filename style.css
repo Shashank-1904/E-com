@@ -112,7 +112,7 @@ p{
 /* Main starts */
 
 #main .home{
-    background-image: url('res/bg.jpg');
+    background-image: url('bg.jpg');
     background-size: cover;
     height: 80vh;
     margin-top: 3px;
